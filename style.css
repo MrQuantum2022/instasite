@@ -1,0 +1,116 @@
+
+
+button{
+    
+        vertical-align: top;
+        margin-top: 12px;
+        margin-left: 177px;
+        background-color: rgb(62, 116, 243);
+        color: white;
+        border: none;
+        padding: 8px;
+        border-radius: 6px;
+        transition: opacity 0.25s;
+    }
+    button:hover{
+       opacity: 0.8;
+    }
+    button:active{
+        opacity: 1;
+        
+    }
+    img:hover{
+        opacity: 0.8;
+    }
+    
+p{
+    font-family: verdana;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+
+.insta-logo{
+    width: 40px;
+}
+.instafont{
+    width: 90px;
+
+}
+.profile{
+    display: inline-block;
+    width: 55px;
+    margin-top: 3px;
+}
+
+.cat-pic{
+    width:45px;
+     border-radius: 25px;
+}
+.info{
+    display: inline-block;
+    vertical-align: top;
+}
+.name{
+    margin-top: 0px;
+    vertical-align: top;
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+
+.cat{
+    vertical-align: top;
+    margin-top: 2px;
+    color: rgb(96,96,96);
+    margin-bottom: 0px;
+}
+.famous{
+    margin-top: 0px;
+    vertical-align: top;
+    margin-top: 2px;
+    color: rgb(96,96,96);
+}
+.space{
+    display: inline-block;
+}
+.follow{
+    margin-left: 200px;
+}
+
+.cat-pic1{
+    width: 45px;
+    height: 45px;
+    border-radius: 25px;
+    object-fit: cover;    
+}
+.follow1{
+    margin-left: 127px;
+}
+
+.cat-pic3{
+    width:45px;
+     border-radius: 25px;
+    
+}
+.follow2{
+    margin-left: 183px;
+}
+.follow3{
+    margin-left: 190px;
+}
+.follow4{
+    margin-left: 190px;
+}
+.follow5{
+    margin-left: 163px;
+}
+.bluetick{
+    width: 11px;
+}
+.gun{
+    width: 20px;
+    
+}
+.follow6{
+    margin-left: 173px;
+}
